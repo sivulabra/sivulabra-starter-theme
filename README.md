@@ -19,5 +19,5 @@ Developing with this theme is easy.
 ## 📂 Structure
 Under construction.
 
-## ❔ Motive
+## Motive
 This starter theme exists to significantly speed up the development of projects. Using this theme as a starting point, around 80 hours of work can be avoided at the start of each project.
