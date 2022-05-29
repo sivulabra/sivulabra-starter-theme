@@ -1,7 +1,7 @@
 # Sivulabra Starter Theme
 A starting point for most Sivulabra WordPress projects.
 
-Sivulabra Starter Theme includes vanilla WordPress functionality with a modern twist. Newer technologies like **React** are easy to integrate to this theme. Node dependencies are automatically split and loaded by the theme individually. JS and CSS filename hashing is also included. This theme is kept **extra light** to avoid performance issues.
+Sivulabra Starter Theme includes vanilla WordPress functionality with a modern twist. Newer technologies like **React** are easy to integrate to this theme. Node dependencies are automatically split into chunks and loaded (enqueued in WP terminology) by the theme individually. JS and CSS filename hashing is also included. This theme is kept **extra light** to avoid performance issues.
 
 ## 🚀 Installation
 Under construction.
